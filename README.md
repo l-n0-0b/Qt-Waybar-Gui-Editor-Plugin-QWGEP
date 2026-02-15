@@ -4,7 +4,7 @@ Qt Waybar Gui Editor Plugin (QWGEP) small graphical configurator and adding plug
 ! Attention! The application was tested only on ArchLinux!
 But it should work in other distributions as well.
 
-![Main Window](qt_waybar_gui_editor_plugin)
+![Main Window](qt_waybar_gui_editor_plugin.png)
 ![Main Window](qt_waybar_gui_editor_plugin_setting.png)
 
 libtiff5 may be required
